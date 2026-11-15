@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
-title: "About"
+permalink: /
+title: "John Andrew Kerin"
 author_profile: true
 ---
