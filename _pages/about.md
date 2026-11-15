@@ -1,12 +1,12 @@
 
+
 ---
-permalink: /
-title: "John Andrew Kerin"
-author_profile: false
-redirect_from:
-  - /about/
-  - /about.html
+layout: single
+permalink: /about/
+title: "About"
+author_profile: true
 ---
+
 
 **PhD Candidate in Mathematics**  
 The Graduate Center, City University of New York
