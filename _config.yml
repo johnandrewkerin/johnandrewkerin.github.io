@@ -24,9 +24,9 @@ repository               : "johnandrewkerin/johnandrewkerin.github.io"
 author:
   # Biographic information
   avatar           : "woods.jpg"
-  name             : "john.kerin78@gc.cuny.edu"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "john.kerin78@gc.cuny.edu"
   location         : #"Earth"
   employer         : "CUNY Graduate Center"
   uri              : # URL
