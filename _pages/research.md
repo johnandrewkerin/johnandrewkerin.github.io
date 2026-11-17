@@ -7,7 +7,7 @@ author_profile: true
 
 **Research Interests:** Riemannian Geometry, Geometric Analysis, Einstein Manifolds, Conformal Geometry
 
-My research is in Riemannian geometry and geometric analysis, particularly the relationship between curvature and topology. My current work uses Weitzenbock formulae and the Chern–Gauss–Bonnet theorem to investigate the geometry and topology of Einstein manifolds under various types of curvature pinching.
+My research is in Riemannian geometry and geometric analysis, particularly the relationship between curvature and topology. My current work uses Weitzenböck formulae and the Chern–Gauss–Bonnet theorem to investigate the geometry and topology of Einstein manifolds under various types of curvature pinching.
 
 More recently, I have been interested in conformal geometry.
 
