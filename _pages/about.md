@@ -4,6 +4,7 @@ permalink: /
 title: "John Andrew Kerin"
 author_profile: true
 ---
+*This site is incomplete. Check back soon!*
 
 I am a PhD Candidate in Mathematics at the CUNY Graduate Center. My advisor is [Renato Bettiol](https://www.lehman.edu/faculty/rbettiol/){:target="_blank"}. I teach at Hunter College. 
 
