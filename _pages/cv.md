@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="{{ '/cv.pdf' | relative_url }}" download>Download my CV (PDF)</a>
+<a href="{{ '/cv.pdf' | relative_url }}" download>Download CV (PDF)</a>
