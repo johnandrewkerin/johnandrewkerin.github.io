@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+My advisor is [Renato Bettiol](https://www.lehman.edu/faculty/rbettiol/).
+
 **Research Interests:** Riemannian Geometry, Geometric Analysis, Einstein Manifolds, Conformal Geometry
 
 My research is in Riemannian geometry and geometric analysis, particularly the relationship between curvature and topology. My current work uses Weitzenböck formulae and the Chern–Gauss–Bonnet theorem to investigate the geometry and topology of Einstein manifolds under various types of curvature pinching.
